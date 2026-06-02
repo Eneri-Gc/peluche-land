@@ -1,0 +1,1 @@
+import{La as n,Ma as c,Ua as a,wa as o}from"./chunk-SDXJSX6W.js";import"./chunk-KAT7YFEL.js";var p=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-checkout"]],decls:2,vars:0,template:function(e,s){e&1&&(n(0,"p"),a(1,"checkout works!"),c())},encapsulation:2})};export{p as CheckoutComponent};

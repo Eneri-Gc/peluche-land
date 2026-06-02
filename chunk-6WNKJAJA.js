@@ -1,0 +1,1 @@
+import{La as t,Ma as i,Ua as a,wa as e}from"./chunk-SDXJSX6W.js";import"./chunk-KAT7YFEL.js";var m=class o{static \u0275fac=function(n){return new(n||o)};static \u0275cmp=e({type:o,selectors:[["app-confirmacion"]],decls:2,vars:0,template:function(n,r){n&1&&(t(0,"p"),a(1,"confirmacion works!"),i())},encapsulation:2})};export{m as ConfirmacionComponent};
